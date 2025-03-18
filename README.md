@@ -2,7 +2,7 @@
 # OmniTable 
 
 ## 🚀 Overview
-OmniTable v2.0 is a high-performance hash-based data structure designed to provide consistent **O(1)** complexity for insertion, lookup, deletion, and traversal — even under extreme load. It combines:
+OmniTable is a high-performance hash-based data structure designed to provide consistent **O(1)** complexity for insertion, lookup, deletion, and traversal — even under extreme load. It combines:
 
 - ✅ **Direct Bucket Injection (DBI)** – Fast insertion with minimal clustering
 - ✅ **Robin Hood Hashing** – Balanced key distribution under high collision scenarios
